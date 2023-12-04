@@ -1,0 +1,10 @@
+change,freq,genome_pos,strand,ref_codon,var_codon,ref_count,var_count,consequence,mutation_id,virus,genotype,gene,aa_change,Ganciclovir,Aciclovir,Cidofovir,Foscarnet,Brincidofovir,Letermovir,Brivudine,Pencyclovir,Tomeglovir,Maribavir,Cyclopropavir,Amenamevir,ref_title,ref_link,ref_doi,strain_generation,test_method,co_gene,co_aa,created_date,created_by,note,control_strain,status
+IRS1_A117A,64.29%,196326,+,GCC,GCG,5,9,synonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+IRS1_A322V,87.50%,196940,+,GCG,GTG,1,7,nonsynonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+RL9A_P10L,85.71%,8365,-,CCG,CTG,2,12,nonsynonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+TRS1_A53A,75%,234601,-,GCG,GCA,2,6,synonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UL97_D456D,100%,143165,+,GAT,GAC,0,8,synonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UL7_A177A,9.00%,16395,+,GCC,GCT,80,10,synonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UL54_A688V,10%,79860,-,GCC,GTC,90,10,nonsynonymous,516,HCMV,Clinical Isolate,UL54,A688V,Susceptible,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,Antiviral Drug Resistance of Human Cytomegalovirus,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2952978/,doi: 10.1128/CMR.00009-10,Observed in baseline sequences or drug-sensetive clinical isolates,Anecdotal,,,16/03/2020,OJCharles,,,A
+RL11_M78I,15.52%,9375,+,ATG,ATA,49,9,nonsynonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+UL55_S901S,100%,82087,-,TCT,TCC,0,70,synonymous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
